@@ -1,5 +1,4 @@
 # SpiderRover
-s is a change
 This project contains the initial project files for the Spider Mars Rover simulation workshop. Your job is to complete the program with your own code.
 
 ## System Requirements
